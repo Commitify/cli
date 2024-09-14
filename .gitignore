@@ -4,4 +4,6 @@
 **/dist
 **/bun.lockb
 
-# Shared
+# Cli
+
+.npmrc

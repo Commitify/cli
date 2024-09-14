@@ -1,4 +1,4 @@
-# @comitter/cli
+# @comitify/cli
 
 To install dependencies:
 
